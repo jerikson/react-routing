@@ -1,7 +1,7 @@
 **Install**:
 ```
 git clone https://github.com/jerikson/react-routing.git
-cd react-routing.git
+cd react-routing
 npm install
 ```
 
