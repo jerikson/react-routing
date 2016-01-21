@@ -14,3 +14,5 @@ http-server -p port
 ```
 http://localhost:port
 ```
+
+![alt tag](https://i.imgur.com/njuYpgXl.png)![alt tag](https://i.imgur.com/1dMIOSpl.png)
